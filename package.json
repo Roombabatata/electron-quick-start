@@ -1,21 +1,21 @@
 {
-  "name": "electron-quick-start",
+  "name": "foxus",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A operating system build in JavaScript",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "Hello World!"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Foxus",
+    "operating", 
+    "System",
+    "JavaScript"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Fares Setbel",
+  "license": "MIT Licence",
   "devDependencies": {
     "electron": "^8.2.5"
   }
